@@ -1,0 +1,1 @@
+curl -X POST -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NjMxMWYzYzI0OTBkMTA0MDQ2ZDBhNzIiLCJpYXQiOjE3MTQ2NjEwMDksImV4cCI6MTcxNDY2NDYwOX0.qxuhA-mUpmS8wpnizFko-M2EKJi1gIMLjJyg48ydW0E" -H "Content-Type: application/json" -d '{"title": "Marchin to Sucess", "sunoId":"57b66d72-f498-4614-8217-82c486dc6529"}' http://localhost:8383/songs -v

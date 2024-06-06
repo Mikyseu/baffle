@@ -1,0 +1,1 @@
+curl -H "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI2NjMxMWYzYzI0OTBkMTA0MDQ2ZDBhNzIiLCJpYXQiOjE3MTQ4MzM1NzksImV4cCI6MTcxNDgzNzE3OX0.qneYt3aFbU9BZRPsuD004-dJT5wViTxoPqfS9KxKrjA" http://localhost:8383/favorites -v
